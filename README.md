@@ -1,7 +1,7 @@
 
-# My Challenges
+# 👉 My Challenges 👈
 
-List of my challenges frontendmentor.io
+List of my challenges frontendmentor.io. [https://www.frontendmentor.io/](https://www.frontendmentor.io/)
 
 
 ## 1. Pricing Component

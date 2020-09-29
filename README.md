@@ -38,4 +38,6 @@ List of my challenges frontendmentor.io. [https://www.frontendmentor.io/](https:
 
 ## 7. Countries
 #### Repo [https://github.com/AndresParraGO/countries](https://github.com/AndresParraGO/countries)
+#### Live Preview [https://flag-countries.netlify.app/](https://flag-countries.netlify.app/)
+![Preview](https://repository-images.githubusercontent.com/286867809/d058b800-0270-11eb-85ed-314f390d65d3)
 
